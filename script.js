@@ -1,5 +1,5 @@
 // Configuration - Replace with your Notion page URL
-const NOTION_PAGE_URL = 'https://your-notion-page-url-here.com';
+const NOTION_PAGE_URL = 'https://fossil-gruyere-1bd.notion.site/Hi-I-m-Likhith-1fe690caeff2808c9ec4ea6d73110b5f';
 
 // Initialize the application
 document.addEventListener('DOMContentLoaded', function() {
